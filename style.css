@@ -3,8 +3,17 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 
 body {
     height: 100vh;
+    
+}
+
+.accueil {
+    background: url(fantome.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
