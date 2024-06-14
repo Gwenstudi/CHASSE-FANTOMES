@@ -5,15 +5,21 @@
     box-sizing: border-box;
     
 }
+ul, li{
+    
+    list-style-type: none;
+}
+
 
 body {
     height: 100vh;
-    
+    width:100%;
     
 }
 
+
 a:hover {
-    font-size: xx-large;
+    transform: scale(1.2);
     
     }
 
