@@ -12,6 +12,10 @@ body {
     
 }
 
+a:hover {
+    font-size: xx-large;
+    
+    }
 
 .accueil {
     background: url(fantome.jpg);
